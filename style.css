@@ -10,6 +10,15 @@ body {
   background: linear-gradient(pink, violet);
 }
 
+.high{
+  color: red;
+}
+.medium{
+  color: yellow;
+}
+.low{
+  color: green;
+}
 button {
   font-size: 7px;
 }
